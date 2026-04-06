@@ -33,10 +33,12 @@ CSS 的 ID 和 Class 選擇器 ( 類別選擇器 )
     第二段
 </p>
 
+<style> 
 .text {
     color: red;
     font-size: 20px;
 }
+</style>
 ```
 
 
